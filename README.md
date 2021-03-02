@@ -1,2 +1,2 @@
 # Algorithms
- Here are the algorithms, i have realised on C++ during my studying.
+ В этом репозитории находятся алгоритмы и структуры данных, которые я реализовал в течение обучения на Физтехе.
